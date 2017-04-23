@@ -5,12 +5,16 @@ Format: ![Alt Text](url)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
+```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Concept
+The Ragnarok is a stroy-driven game set in the far future within space. The main protagonist wakes up aboard their ship and must find out where, and what happened to the crew. The player makes their way through the ship solving puzzles to gain access further into the ship of which they were stationed to. With the protaganists memory completely wiped, they must work out what had happened and how to escape.
+## The Ragnarok Trailer
+
+### Concept and in-game images
+
+#### The team
 
 - Bulleted
 - List
@@ -21,7 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
