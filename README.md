@@ -1,8 +1,4 @@
-## Ragnarok
-
-You can use the [editor on GitHub](https://github.com/NathanDavid/Ragnarok/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Ragnarok logo](D:\The Ragnarok\767DEF53-2DBF-4BD3-BBC0-93FEFD63CD35.png)
 
 ### Markdown
 
