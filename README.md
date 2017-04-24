@@ -18,8 +18,7 @@ The Ragnarok is a stroy-driven game set in the far future within space. The main
 <img src="facebook.gif" alt="">        
 <h4>Nathan-David Coplestone</h4>        
 <p>Programmer</p>       
-      
-        
+  
 <img src="facebook.gif" alt="">        
 <h4>Kieran Goldsworthy</h4>        
 <p>Programmer</p>       
@@ -69,9 +68,7 @@ The Ragnarok is a stroy-driven game set in the far future within space. The main
 <img src="facebook.gif" alt="">        
 <h4>Luca Lacobucci</h4>        
 <p>Designer</p>       
-</section>    
-
-<html> <body>  <iframe width="560" height="315" src="</section>       
+</section>           
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">        
 <img src="facebook.gif" alt="">        
