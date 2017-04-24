@@ -76,4 +76,34 @@ The Ragnarok is a stroy-driven game set in the far future within space. The main
 <p>Designer</p>       
 </section>    
 
-<html> <body>  <iframe width="560" height="315" src="https://www.youtube.com/embed/mzY48FloO8c" frameborder="0" allowfullscreen></iframe> </body></html>
+<html> <body>  <iframe width="560" height="315" src="</section>       
+
+<section class="3u 6u$(medium) 12u$(xsmall) profile">        
+<img src="profile-facebook.jpg" alt="">        
+<h4>Joe Fry</h4>        
+<p>Animator</p>       
+</section>      
+
+<section class="3u 6u$(medium) 12u$(xsmall) profile">
+<img src="facebook.jpg" alt="">        
+<h4>Jordan Jones</h4>        
+<p>Designer</p>       
+</section>       
+
+<section class="3u 6u(medium) 12u$(xsmall) profile">        
+<img src="facebook.jpg" alt="">        
+<h4>Chris Delaney</h4>        
+<p>Audio</p>       
+</section>       
+
+<section class="3u 6u$(medium) 12u$(xsmall) profile">        
+<img src="facebook.jpg" alt="">        
+<h4>Luca Lacobucci</h4>        
+<p>Designer</p>       
+</section>    
+
+<html> <body>  <iframe width="560" height="315" src="https://www.youtube.com/embed/mzY48FloO8c"
+
+ frameborder="0" allowfullscreen></iframe> </body></html>
+
+
