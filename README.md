@@ -1,38 +1,10 @@
-![Ragnarok logo](D:\The Ragnarok\767DEF53-2DBF-4BD3-BBC0-93FEFD63CD35.png)
-Format: ![Alt Text](url)
+AN 80’S CYBERPUNK HACK-N-SLASHDEATH BATTLE ARENAINSPIRED BY TRON, BLOOD DRAGON, KUNG FURY AND DEVIL MAY CRY.
+Stylized Models, Low Poly,High Quality Textures (Think Superhot) Dark & Grimy FeelLots of Neon/Cyberpunk Tones
+Use Basic attacks to build combo-meterCombo System allows you to chain takedowns.
+You are Kojin, a Ronin. With your sword, Akuma, you are sent far into the future by an Insane, Homicidal A.I. only known as Moreau. In the future, you have to fight to return.
+Designed to be Arena-like.Cyberpunk ThemesLots of Neon.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Concept
-The Ragnarok is a stroy-driven game set in the far future within space. The main protagonist wakes up aboard their ship and must find out where, and what happened to the crew. The player makes their way through the ship solving puzzles to gain access further into the ship of which they were stationed to. With the protaganists memory completely wiped, they must work out what had happened and how to escape.
-## The Ragnarok Trailer
-
-### Concept and in-game images
-
-#### The team
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NathanDavid/Ragnarok/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div class="container">     <section class="profiles">      <div class="row">       <section class="3u 6u(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>James Pitt</h4>        <p>Programmer</p>       </section>       <section class="3u 6u(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Steven Cowie</h4>        <p>Programmer</p>       </section>       <section class="3u 6u$(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Kieran Welch</h4>        <p>Programmer</p>       </section>       <section class="3u 6u$(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Joshua Daniels</h4>        <p>Programmer</p>       </section>      </div>     </section>          <section class="profiles">      <div class="row">       <section class="3u 6u(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Ed Hobson</h4>        <p>Artist</p>       </section>       <section class="3u 6u(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Joel Dash</h4>        <p>Artist</p>       </section>       <section class="3u 6u(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Jesse Kay</h4>        <p>Artist</p>       </section>       <section class="3u 6u$(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Nathan Fisher Mantej</h4>        <p>Artist</p>       </section>      </div>     </section>          <section class="profiles">      <div class="row">       <section class="3u 6u$(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Connor Abbott</h4>        <p>Animator</p>       </section>       <section class="3u 6u(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Rupert Nicol</h4>        <p>Designer</p>       </section>       <section class="3u 6u$(medium) 12u$(xsmall) profile">        <img src="profile-no-photo.png" alt="">        <h4>Edmund Dunstan</h4>        <p>Writer</p>       </section>      </div>     </section>    </div>
+<img src="ss1.png" width="270" height="270" alt="Overview of the map" display="inline"><h4><p>Overview of the map</p></h4><img src="ss2.png" width="270" height="270" alt="Initial capture of the screen" display="inline"><h4><p>Initial capture of the game</p></h4><img src="ss3.png" width="270" height="270" alt="The main menu" display="inline"><h4><p>The main menu</p></h4><img src="ss4.png" width="270" height="270" alt="The combat" display="inline"><h4><p>The combat</p></h4>
+<html> <body>  <iframe width="560" height="315" src="https://www.youtube.com/embed/mzY48FloO8c" frameborder="0" allowfullscreen></iframe> </body></html>
