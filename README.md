@@ -8,31 +8,26 @@ The Ragnarok is a stroy-driven game set in the far future within space. The main
 
 <div class="container">     
 <section class="profiles">      
-<div class="row">       
+<div class="row">
+
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
 <img src="facebook.gif" alt="">        
 <h4>Christopher Nash</h4>        
 <p>Programmer</p>       
-</section>       
 
-<section class="3u 6u(medium) 12u$(xsmall) profile">        
 <img src="facebook.gif" alt="">        
 <h4>Nathan-David Coplestone</h4>        
 <p>Programmer</p>       
-</section>       
-
-<section class="3u 6u$(medium) 12u$(xsmall) profile">        
-<img src="facebook.gif" alt="" display="inline">        
+      
+        
+<img src="facebook.gif" alt="">        
 <h4>Kieran Goldsworthy</h4>        
 <p>Programmer</p>       
-</section>       
-
-<section class="3u 6u$(medium) 12u$(xsmall) profile">        
+            
 <img src="facebook.gif" alt="">        
 <h4>Nathan Henry</h4>        
 <p>Programmer</p> 
-<section class="profiles">      
-<div class="row">       
+</section>  
 
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
 <img src="facebook.gif" alt="">        
@@ -79,25 +74,25 @@ The Ragnarok is a stroy-driven game set in the far future within space. The main
 <html> <body>  <iframe width="560" height="315" src="</section>       
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">        
-<img src="profile-facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Joe Fry</h4>        
 <p>Animator</p>       
 </section>      
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Jordan Jones</h4>        
 <p>Designer</p>       
 </section>       
 
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Chris Delaney</h4>        
 <p>Audio</p>       
 </section>       
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Luca Lacobucci</h4>        
 <p>Designer</p>       
 </section>    
