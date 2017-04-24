@@ -10,68 +10,68 @@ The Ragnarok is a stroy-driven game set in the far future within space. The main
 <section class="profiles">      
 <div class="row">       
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Christopher Nash</h4>        
 <p>Programmer</p>       
 </section>       
 
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Nathan-David Coplestone</h4>        
 <p>Programmer</p>       
 </section>       
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="" display="inline">        
+<img src="facebook.gif" alt="" display="inline">        
 <h4>Kieran Goldsworthy</h4>        
 <p>Programmer</p>       
 </section>       
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Nathan Henry</h4>        
 <p>Programmer</p> 
 <section class="profiles">      
 <div class="row">       
 
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Ed Hannes Siebke</h4>        
 <p>Artist</p>       
 </section>       
 
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Kayleigh Clarke</h4>        
 <p>Artist</p>       
 </section>       
 
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Elliott Pearson</h4>        
 <p>Writer</p>       
 </section>       
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">        
-<img src="profile-facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Joe Fry</h4>        
 <p>Animator</p>       
 </section>      
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Jordan Jones</h4>        
 <p>Designer</p>       
 </section>       
 
 <section class="3u 6u(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Chris Delaney</h4>        
 <p>Audio</p>       
 </section>       
 
 <section class="3u 6u$(medium) 12u$(xsmall) profile">        
-<img src="facebook.jpg" alt="">        
+<img src="facebook.gif" alt="">        
 <h4>Luca Lacobucci</h4>        
 <p>Designer</p>       
 </section>    
