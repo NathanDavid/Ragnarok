@@ -9,7 +9,7 @@ The Ragnarok is a stroy-driven game set in the far future within space. The main
 <img src="concept.png" width="400" height="300">
 <img src="ss2.png" width= "400" height="300" display="inline">
 <img src="ss3.png" width= "400" height="300" display="inline">  
-<iframe width="600" height="360" src="https://www.youtube.com/embed/4NCnxkL0Xn0" frameborder="0" allowfullscreen></iframe>
+<iframe width="540" height="360" src="https://www.youtube.com/embed/4NCnxkL0Xn0" frameborder="0" allowfullscreen></iframe>
 
 <div class="imgContainer">     
 <section class="profiles">      
